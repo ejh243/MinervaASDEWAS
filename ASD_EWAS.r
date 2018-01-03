@@ -1,4 +1,5 @@
 ## This script uses the output of the QC.r & methylationDerivedVariables.r scripts to perform the primary analysis of a genome-wide analysis to identify dna methylation sites associated with ASD status. 
+## Filepaths and sample IDs have been removed for security reasons, therfore it serves as a guide to the analysis
 
 uniqueAnno<-function(row){
 if(row != ""){

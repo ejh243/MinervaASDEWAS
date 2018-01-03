@@ -1,4 +1,5 @@
 ## This script was used to perform the meta-analysis combining the p values from EWAS performed in three different cohorts
+## Filepaths and sample IDs have been removed for security reasons, therfore it serves as a guide to the analysis
 
 library(IlluminaHumanMethylation450kanno.ilmn12.hg19)
 library(qqman)

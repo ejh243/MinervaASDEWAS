@@ -1,4 +1,5 @@
 ## This script was used to generate smoking and cellular composition covariates from the DNA methylation data 
+## Filepaths and sample IDs have been removed for security reasons, therfore it serves as a guide to the analysis
 
 library(minfi)
 library(wateRmelon)

@@ -1,4 +1,5 @@
 ## This script was used to perform an EWAS of ASD polygenic risk score. The polygenic risk scores were calculated in plink.
+## Filepaths and sample IDs have been removed for security reasons, therfore it serves as a guide to the analysis
 
 library(corrplot)
 library("PerformanceAnalytics")

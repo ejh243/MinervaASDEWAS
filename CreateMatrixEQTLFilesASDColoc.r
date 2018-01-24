@@ -1,5 +1,6 @@
 ## For colocalisation analysis need mQTL P values for all SNPs not just significant ones
-## This script extracts DNA methylation sites within GWAS loci and creates files for MatrixEQTL.
+## This script extracts DNA methylation sites found within 250 kb of a ASD GWAS loci as defined by the clumped results of the 
+## PGC-iPSYCH meta-analysis and creates files for MatrixEQTL.
 
 setwd("")
 meth<-read.table("MatrixEQTL/Methylation.txt", header = TRUE, row.names = 1)

@@ -7,3 +7,5 @@ In this repo there are scripts that demonstrate:
 2. The epigenome-wide association study of ASD cases vs controls.
 3. The epigenome-wide association study of ASD polygenic risk score.
 4. The co-localisation analysis between ASD and DNA methylaion using DNA methylation quantiative trait loci derived in this dataset.
+
+Please note that for security reasons filepaths and identifiers have been removed, therefore this serve as a guide to the analysis.

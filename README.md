@@ -1,5 +1,5 @@
 # MinervaASDEWAS
-Analysis scripts for epigenome-wide association study of ASD status in MINERvA study (a subset of iPSYCH). These accompany the manuscript Elevated polygenic burden for autism is associated with differential DNA methylation at birth (under review).
+Analysis scripts for epigenome-wide association study of ASD status in MINERvA study (a subset of iPSYCH). These accompany the manuscript: Elevated polygenic burden for autism is associated with differential DNA methylation at birth (under review).
 
 In this repo there are scripts that demonstrate:
 

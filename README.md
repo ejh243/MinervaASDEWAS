@@ -6,6 +6,8 @@ In this repo there are scripts that demonstrate:
 1. The QC of the DNA methylation data profiled with the Illumina 450K array.
 2. The epigenome-wide association study of ASD cases vs controls.
 3. The epigenome-wide association study of ASD polygenic risk score.
-4. The co-localisation analysis between ASD and DNA methylaion using DNA methylation quantiative trait loci derived in this dataset.
+4. Sliding window regional analysis using results from EWAS.
+5. Generation of DNA methylation trait loci.
+6. The co-localisation analysis between ASD and DNA methylaion using DNA methylation quantiative trait loci derived in this dataset.
 
 Please note that for security reasons filepaths and identifiers have been removed, therefore this serve as a guide to the analysis.
